@@ -1,0 +1,48 @@
+# Site settings
+title: "Destingong - Data Science Articles"
+description: "Explore data science tutorials, machine learning articles, clustering algorithms, and AI insights by a data scientist based in New Zealand."
+baseurl: ""
+url: "https://destingong.github.io"
+
+# Author
+author:
+  name: "Destingong"
+  email: "destingong@example.com"
+
+# SEO Settings
+lang: en
+locale: en_NZ
+
+# Social links (for SEO meta tags)
+social:
+  name: Destingong
+  links:
+    - https://github.com/destingong
+
+# Build settings
+theme: minima
+remote_theme: jekyll/minima
+
+# Plugins for SEO
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Permalink structure
+permalink: /:title/
+
+# Defaults for posts
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Destingong"
+
+# Exclude from processing
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
