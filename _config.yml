@@ -1,13 +1,13 @@
 # Site settings
-title: "Destingong - Data Science Articles"
-description: "Explore data science tutorials, machine learning articles, clustering algorithms, and AI insights by a data scientist based in New Zealand."
+title: "Data Science Hub"
+description: "Explore data science and AI insights."
 baseurl: ""
 url: "https://destingong.github.io"
 
 # Author
 author:
   name: "Destingong"
-  email: "destingong@example.com"
+  email: "destingong@gmail.com"
 
 # SEO Settings
 lang: en
@@ -39,7 +39,7 @@ defaults:
       type: "posts"
     values:
       layout: "post"
-      author: "Destingong"
+      author: "Destin Gong"
 
 # Exclude from processing
 exclude:
