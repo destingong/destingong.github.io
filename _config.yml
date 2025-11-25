@@ -20,7 +20,6 @@ social:
     - https://github.com/destingong
 
 # Build settings
-theme: minimal
 remote_theme: pages-themes/minimal@v0.2.0
 
 # Plugins for SEO
