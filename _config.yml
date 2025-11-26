@@ -20,7 +20,7 @@ social:
     - https://github.com/destingong
 
 # Build settings
-remote_theme: pages-themes/midnight@v0.2.0
+remote_theme: jekyll-theme-basically-basic
 
 # Plugins for SEO
 plugins:
