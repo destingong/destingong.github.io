@@ -10,6 +10,22 @@ author: "Destin Gong"
 
 Hi, I'm a **data scientist** specializing in clustering algorithms, machine learning, and agentic AI systems.
 
+## My YouTube Channel
+
+Subscribe for data science tutorials, clustering algorithms, and ML insights:
+
+<iframe 
+  width="100%" 
+  height="400" 
+  src="https://www.youtube.com/embed/videoseries?list=UUIwgLIm0xay1WgYaEISRBYw" 
+  title="Data Science Tutorials" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+
+[Subscribe to My Channel →](https://www.youtube.com/channel/UCIwgLIm0xay1WgYaEISRBYw?sub_confirmation=1)
+
 ## Featured Articles
 <div>
   <iframe src="https://towardsdatascience.com/author/destingong/" width="100%" height="400" frameborder="0" scrolling="no"></iframe>
