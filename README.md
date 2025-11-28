@@ -1,2 +1,2 @@
-# destingong.github.io
-Data Science articles and portfolio - Machine Learning, Clustering, and AI tutorials
+# Data Design
+Data Science articles and portfolio - Machine Learning and AI tutorials
