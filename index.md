@@ -110,6 +110,13 @@ Subscribe for data science tutorials and ML insights:
   </div>
 </div>
 
+## 🚀 Streamlit Apps
+
+Interactive web applications built with Streamlit:
+
+- [Computer Vision App](https://huggingface-computer-vision.streamlit.app/) - Hugging Face Computer Vision demos
+- - [MCP Client App](https://mcp-client-app.streamlit.app/) - Model Context Protocol client interface
+
 
 ## About Me
 
